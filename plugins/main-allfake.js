@@ -32,17 +32,17 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/573012482597'
+global.creador = 'Wa.me/212681951915'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51939041500'
-global.namechannel = '🚩 𝗟𝘂𝗳𝗳𝘆 𝗕𝗼𝘁 - 𝗠𝗗​᭄ ᎪΝႮΝᏟᏆϴՏ'
-global.namechannel2 = '𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁 - 𝗧𝗲𝗮𝗺'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.namecomu2 = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁'
-global.groupsuport = '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.colab1 = '𝗚𝗮𝘁𝗮𝗕𝗼𝘁 & 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.colab2 = '𝗦𝗵𝗶𝘇𝘂𝗸𝗮𝗕𝗼𝘁 & 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.colab3 = '𝗦𝘂𝗺𝗶𝗦𝗮𝗸𝘂𝗿𝗮𝘀𝗮𝘄𝗮 & 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
+global.asistencia = 'Wa.me/212681951915'
+global.namechannel = '🇲🇦 TomiyBot- MD​᭄ BY ALI NAFIS'
+global.namechannel2 = '🇲🇦🇵🇸'
+global.namecomu = ' TomiyBot'
+global.namecomu2 = ' Ali Nafis'
+global.groupsuport = ' TomiyBot'
+global.colab1 = ' & TomiyBot'
+global.colab2 = ' & TomiyBot'
+global.colab3 = ' & TomiyBot'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -64,12 +64,12 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' 
-var canal2 = 'https://whatsapp.com/channel/0029VaXaCa66xCSHugaf773M'  
-var git = 'https://github.com/OfcDiego' 
-var youtube = 'https://www.youtube.com/@OfcDiego' 
-var github = 'https://github.com/OfcDiego/LuffyBot-MD' 
-var facebook = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' 
+var canal = 'https://whatsapp.com/channel/0029VahoaSeGzzKKgUgAa80y' 
+var canal2 = 'https://whatsapp.com/channel/0029VahoaSeGzzKKgUgAa80y'  
+var git = 'https://github.com/Alinafis03' 
+var youtube = 'https://www.youtube.com/' 
+var github = 'https://github.com/Alinafis03' 
+var facebook = 'https://www.facebook.com' 
 let tiktok = 'https://tiktok.com/@theluffybot'
 
 global.redes = [canal, canal2, git, youtube, github, facebook, tiktok].getRandom()
@@ -113,7 +113,7 @@ global.rcanal = {
 contextInfo: {
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: "120363263466636910@newsletter",
+newsletterJid: "120363293269521482@newsletter",
 serverMessageId: 100,
 newsletterName: 'Luffy Bot Channel 🚩',
 },
